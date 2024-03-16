@@ -1,0 +1,6 @@
+{
+    "tailwindCSS.experimental.classRegex": [
+        // https://github.com/tailwindlabs/tailwindcss-intellisense/issues/270#issuecomment-785038799
+        ":(?:.|\n)*?[\"'`]([^\"'`]*).*?,",
+    ]
+}
